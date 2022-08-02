@@ -5,7 +5,7 @@
 
 - ⚡ if (role==SoftwareDeveloper) || (role==Programmer) return TRUE;
 
-- ⚡ Fun fact I enjoyed doing codes sm.
+- ⚡ Interested in collab? Feel to hit me up at my email.
 
 - 📫 Swing by and give me an email at **trishaduzon13@gmail.com**
 
