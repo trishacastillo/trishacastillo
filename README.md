@@ -3,9 +3,7 @@
 
 - 🌱 Undergraduate final year | Looking for full-time role in IT field
 
-- ⚡ if (role==SoftwareDeveloper) || (role==Programmer) return TRUE;
-
-- ⚡ Interested in collab? Feel to hit me up at my email.
+- ⚡ if (role==WebDeveloper) || (role==Programmer) return TRUE;
 
 - 📫 Swing by and give me an email at **trishaduzon13@gmail.com**
 
