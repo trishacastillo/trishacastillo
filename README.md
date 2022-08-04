@@ -1,5 +1,5 @@
 <h1 align="left">Trisha Castillo</h1>
-<p align="left">A passionate aspiring software engineer with knowledge in software engineering practices such as coding, testing, code reviews, code comments, etc. Strong ability to communicate with clients and ability to express ideas clearly and concisely.</p>
+<p align="left">A passionate aspiring web developer with knowledge in front-end scripting and coding languages, media queries, debugging and testing, APIs, and etc.</p>
 
 - 🌱 Undergraduate final year | Looking for full-time role in IT field
 
